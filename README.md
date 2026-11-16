@@ -1,22 +1,22 @@
 # React + Vite
 
 # RUN IT 
-npm run dev
+- npm run dev
 
 # PUSHING IT TO GITHUB
-git init
-git add .
-git commit -m "name"
-git branch -M main
-git remote add origin URL"
-git push -u origin main
+- git init
+- git add .
+- git commit -m "name"
+- git branch -M main
+- git remote add origin URL"
+- git push -u origin main
 
 
 # STARTING/ CREATING REACT APP
-npm create vite@latest
+- npm create vite@latest
 
-npm install
-npm run dev
+- npm install
+- npm run dev
 
  
 
